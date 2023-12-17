@@ -1,6 +1,6 @@
 module github.com/Rish-it/Fiber_CRM
 
-go 1.21.5
+go 1.23
 
 require (
 	github.com/gofiber/fiber v1.14.6
