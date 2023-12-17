@@ -66,11 +66,11 @@ Before deploying Fiber_CRM, ensure you have the following installed:
 ## Resources
 
 CRM Insights
-- **Why CRM is Important for Your Business](https://www.salesforce.com/in/blog/2017/11/why-crm-is-important.html)
-- **Benefits of Using CRM](https://www.salesforce.com/in/blog/2020/01/benefits-of-using-crm.html)
+- **Why CRM is Important for Your Business (https://www.salesforce.com/in/blog/2017/11/why-crm-is-important.html)
+- **Benefits of Using CRM (https://www.salesforce.com/in/blog/2020/01/benefits-of-using-crm.html)
 ## Go Fiber Framework
-- **Fiber Documentation
-- **GitHub Repository
+- **Fiber Documentation (https://docs.gofiber.io/)
+- **GitHub Repository   (https://github.com/gofiber/fiber)
 
 
 ## Contributing
